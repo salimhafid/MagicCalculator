@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E288C75E25166C7C0008B281 /* CustomModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = E288C75D25166C7C0008B281 /* CustomModifier.swift */; };
 		E2F5F8F62515751B0003E67E /* Magic_CalculatorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2F5F8F52515751B0003E67E /* Magic_CalculatorApp.swift */; };
 		E2F5F8F82515751B0003E67E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2F5F8F72515751B0003E67E /* ContentView.swift */; };
 		E2F5F8FA2515751D0003E67E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E2F5F8F92515751D0003E67E /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E288C75D25166C7C0008B281 /* CustomModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomModifier.swift; sourceTree = "<group>"; };
 		E2F5F8F22515751B0003E67E /* Magic Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Magic Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2F5F8F52515751B0003E67E /* Magic_CalculatorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Magic_CalculatorApp.swift; sourceTree = "<group>"; };
 		E2F5F8F72515751B0003E67E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				E2F5F8F52515751B0003E67E /* Magic_CalculatorApp.swift */,
 				E2F5F8F72515751B0003E67E /* ContentView.swift */,
+				E288C75D25166C7C0008B281 /* CustomModifier.swift */,
 				E2F5F8F92515751D0003E67E /* Assets.xcassets */,
 				E2F5F8FE2515751D0003E67E /* Info.plist */,
 				E2F5F8FB2515751D0003E67E /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				E2F5F8F82515751B0003E67E /* ContentView.swift in Sources */,
 				E2F5F8F62515751B0003E67E /* Magic_CalculatorApp.swift in Sources */,
+				E288C75E25166C7C0008B281 /* CustomModifier.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
